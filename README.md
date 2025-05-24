@@ -8,15 +8,15 @@ The recognized signs are displayed as English phrases, providing an accessible i
 
 ## Features
 
-Real-time detection and classification of 40 Arabic sign language gestures.
+  - Real-time detection and classification of 40 Arabic sign language gestures.
 
-Uses MediaPipe Holistic for robust pose and hand landmark extraction.
+  - Uses MediaPipe Holistic for robust pose and hand landmark extraction.
 
-Deep learning model trained on normalized landmark sequences for accurate gesture recognition.
+  - Deep learning model trained on normalized landmark sequences for accurate gesture recognition.
 
-Continuous prediction smoothing via a prediction window to enhance reliability.
+  - Continuous prediction smoothing via a prediction window to enhance reliability.
 
-Displays recognized phrases in real-time on the webcam feed.
+  - Displays recognized phrases in real-time on the webcam feed.
 
 ## Cloud Computing Integration
 
@@ -33,3 +33,13 @@ Deployed the frontend application and model interface on Netlify, enabling fast,
 
 ### WebView Integration
 The recognition model and interface are embedded within a WebView in the application, allowing smooth integration of the deployed web app with native mobile or desktop environments.
+
+## Future Work
+
+  - Expand the sign vocabulary to include more phrases.
+
+  - Improve UI/UX for accessibility.
+
+  - Implement multi-language support.
+
+  - Enhance cloud integration with analytics and usage monitoring.
