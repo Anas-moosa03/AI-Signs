@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698422389420",
+    "project_id": "ai-signs2",
+    "storage_bucket": "ai-signs2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698422389420:android:1f93ec67639cfda46f4d09",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmANATG9_2nv7eAsy0GT-aAquP1xg8J2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
